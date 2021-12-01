@@ -63,7 +63,7 @@ https://k5b302.p.ssafy.io/
 
 # ✔ 아키텍쳐 구조
 
-![project](README.assets/project architecture.png)
+![project](README.assets/project_architecture.png)
 
 <br>
 
