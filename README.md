@@ -18,7 +18,7 @@
 
 https://k5b302.p.ssafy.io/
 
-✔ 서비스 이용 가능
+서비스 이용 불가능
 
 <br>
 
@@ -122,7 +122,7 @@ https://k5b302.p.ssafy.io/
 
 <details>
   <summary>ERD</summary>  
-  
+
   ![erd](/uploads/6b347d6b1f57b5045db470adcdc67cb6/erd.png)
 
 </details>
@@ -233,6 +233,7 @@ exec/포팅매뉴얼.md
 ![resume_edit](/uploads/5e62e611d1cf2e5efcc9916ba78b7610/resume_edit.gif)
 
 - 이력서 수정
+  
   > 삭제하고 싶은 내용이 있거나 고쳐야할 부분이 있다면 '이력서 수정'을 통해서 가능합니다.
 
 <br><br>
@@ -267,6 +268,7 @@ exec/포팅매뉴얼.md
 ![portfolio_swap](/uploads/5c08aece614e26f174e8aef7467a85b5/portfolio_swap.gif)
 
 - 위치 변경
+  
   > 내용의 위치를 드래그로 변경할 수 있습니다.
 
 <br>
@@ -274,6 +276,7 @@ exec/포팅매뉴얼.md
 ![portfolio_edit](/uploads/87704cadbe1506daa1766d0d9c523aef/portfolio_edit.gif)
 
 - 내용 삭제 및 추가
+  
   > 편집 버튼을 눌러서, 내용을 삭제하거나 다시 추가할 수 있습니다.
 
 <br><br>
